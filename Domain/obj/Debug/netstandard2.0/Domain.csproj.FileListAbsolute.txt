@@ -1,0 +1,9 @@
+/Users/joshuaphelps/Development/code/udemy_dotnetcore/myproject/Domain/bin/Debug/netstandard2.0/Domain.deps.json
+/Users/joshuaphelps/Development/code/udemy_dotnetcore/myproject/Domain/bin/Debug/netstandard2.0/Domain.dll
+/Users/joshuaphelps/Development/code/udemy_dotnetcore/myproject/Domain/bin/Debug/netstandard2.0/Domain.pdb
+/Users/joshuaphelps/Development/code/udemy_dotnetcore/myproject/Domain/obj/Debug/netstandard2.0/Domain.csprojAssemblyReference.cache
+/Users/joshuaphelps/Development/code/udemy_dotnetcore/myproject/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfoInputs.cache
+/Users/joshuaphelps/Development/code/udemy_dotnetcore/myproject/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfo.cs
+/Users/joshuaphelps/Development/code/udemy_dotnetcore/myproject/Domain/obj/Debug/netstandard2.0/Domain.csproj.CoreCompileInputs.cache
+/Users/joshuaphelps/Development/code/udemy_dotnetcore/myproject/Domain/obj/Debug/netstandard2.0/Domain.dll
+/Users/joshuaphelps/Development/code/udemy_dotnetcore/myproject/Domain/obj/Debug/netstandard2.0/Domain.pdb

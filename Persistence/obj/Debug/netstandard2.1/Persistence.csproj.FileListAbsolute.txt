@@ -1,0 +1,12 @@
+/Users/joshuaphelps/Development/code/udemy_dotnetcore/myproject/Persistence/bin/Debug/netstandard2.1/Persistence.deps.json
+/Users/joshuaphelps/Development/code/udemy_dotnetcore/myproject/Persistence/bin/Debug/netstandard2.1/Persistence.dll
+/Users/joshuaphelps/Development/code/udemy_dotnetcore/myproject/Persistence/bin/Debug/netstandard2.1/Persistence.pdb
+/Users/joshuaphelps/Development/code/udemy_dotnetcore/myproject/Persistence/bin/Debug/netstandard2.1/Domain.dll
+/Users/joshuaphelps/Development/code/udemy_dotnetcore/myproject/Persistence/bin/Debug/netstandard2.1/Domain.pdb
+/Users/joshuaphelps/Development/code/udemy_dotnetcore/myproject/Persistence/obj/Debug/netstandard2.1/Persistence.csprojAssemblyReference.cache
+/Users/joshuaphelps/Development/code/udemy_dotnetcore/myproject/Persistence/obj/Debug/netstandard2.1/Persistence.AssemblyInfoInputs.cache
+/Users/joshuaphelps/Development/code/udemy_dotnetcore/myproject/Persistence/obj/Debug/netstandard2.1/Persistence.AssemblyInfo.cs
+/Users/joshuaphelps/Development/code/udemy_dotnetcore/myproject/Persistence/obj/Debug/netstandard2.1/Persistence.csproj.CoreCompileInputs.cache
+/Users/joshuaphelps/Development/code/udemy_dotnetcore/myproject/Persistence/obj/Debug/netstandard2.1/Persistence.csproj.CopyComplete
+/Users/joshuaphelps/Development/code/udemy_dotnetcore/myproject/Persistence/obj/Debug/netstandard2.1/Persistence.dll
+/Users/joshuaphelps/Development/code/udemy_dotnetcore/myproject/Persistence/obj/Debug/netstandard2.1/Persistence.pdb
